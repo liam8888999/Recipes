@@ -5,7 +5,7 @@ tags: ['chinese', 'rice', 'chicken']
 author: liam8888999
 ---
 
-![chinese-chicken-rice](/pix/chinese-chicken-rice.webp)
+![chinese-chicken-rice](/recipes/pix/chinese-chicken-rice.webp)
 
 - 🍳 Cook time: ~15 minutes
 - 🍽️  Servings: 2-3

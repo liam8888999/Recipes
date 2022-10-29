@@ -42,7 +42,7 @@ If it includes dairy but no milk, include the `cheesefare` tag.
 
 ### Images
 
-Images are stored in `/pix`.
+Images are stored in `/recipes/pix`.
 
 Each recipe can have a title image at the top and perhaps several instructional
 images as absolutely necessary.
@@ -53,13 +53,13 @@ submit a better one.
 
 Images should be in `.webp` format and with as small file size as possible. If
 you submit an image for say, `chicken-parmesan.md`, it should be added as
-`/pix/chicken-parmesan.webp`.
+`/recipes/pix/chicken-parmesan.webp`.
 
 If you would like to add additional directional images,
-they should be numbered with two digits like: `/pix/chicken-parmesan-01.webp`, etc.
+they should be numbered with two digits like: `/recipes/pix/chicken-parmesan-01.webp`, etc.
 
 Note also that images should have links beginning with a slash in this use
-case, i.e. `/pix/...`.
+case, i.e. `/recipes/pix/...`.
 
 ## License
 

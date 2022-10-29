@@ -5,7 +5,7 @@ tags: ['Thai', 'Dairy Free', 'Pastry', 'Stir-fry']
 author: liam8888999
 ---
 
-![thai-parcels](/pix/thai-parcels.jpeg)
+![thai-parcels](/recipes/pix/thai-parcels.jpeg)
 
 - 🍳 Cook time: ~30 minutes
 - 🍽️  Servings: 4

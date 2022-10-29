@@ -5,7 +5,7 @@ tags: ['Dairy', 'Appetiser']
 author: liam8888999
 ---
 
-![cream-cheese-and-walnut-canape](/pix/cream-cheese-and-walnut-canape.jpeg)
+![cream-cheese-and-walnut-canape](/recipes/pix/cream-cheese-and-walnut-canape.jpeg)
 
 - 🍳 Cook time: ~5 minutes
 - 🍽️  Servings: 10 portions

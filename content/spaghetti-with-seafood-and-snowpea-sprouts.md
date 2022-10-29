@@ -5,7 +5,7 @@ tags: ['Sea Food', 'Dairy Free', 'Pasta']
 author: liam8888999
 ---
 
-![spaghetti-with-seafood-and-snowpea-sprouts](/pix/spaghetti-with-seafood-and-snowpea-sprouts.jpeg)
+![spaghetti-with-seafood-and-snowpea-sprouts](/recipes/pix/spaghetti-with-seafood-and-snowpea-sprouts.jpeg)
 
 - 🍳 Cook time: ~20 minutes
 - 🍽️  Servings: 4

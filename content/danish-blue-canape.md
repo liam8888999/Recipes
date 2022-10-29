@@ -5,7 +5,7 @@ tags: ['Dairy', 'Appetiser']
 author: liam8888999
 ---
 
-![danish-blue-canape](/pix/danish-blue-canape.png)
+![danish-blue-canape](/recipes/pix/danish-blue-canape.png)
 
 - 🍳 Cook time: ~5 minutes
 - 🍽️  Servings: 10 portions

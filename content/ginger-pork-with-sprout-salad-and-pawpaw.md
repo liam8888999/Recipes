@@ -5,7 +5,7 @@ tags: ['Pork', 'Dairy Free', 'Salad']
 author: liam8888999
 ---
 
-![ginger-pork-with-sprout-salad-and-pawpaw](/pix/ginger-pork-with-sprout-salad-and-pawpaw.jpeg)
+![ginger-pork-with-sprout-salad-and-pawpaw](/recipes/pix/ginger-pork-with-sprout-salad-and-pawpaw.jpeg)
 
 - 🍳 Cook time: ~20 minutes
 - 🍽️  Servings: 4
