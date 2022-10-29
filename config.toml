@@ -1,4 +1,4 @@
-baseURL = 'https://liam8888999.github.io/'
+baseURL = 'https://liam8888999.github.io/recipes/'
 languageCode = 'en-us'
 title = 'Recipe Book'
 theme = 'lugo'
