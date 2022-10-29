@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   search.addEventListener("input", () => {
     // grab search input value
-    const searchText = search.value.toLowerCase().trim().normalize('NFD').replace(/recipes/\p{Diacritic}/gu, "");
+    const searchText = search.value.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, "");
     const searchTerms = searchText.split(" ");
     const hasFilter = searchText.length > 0;
 
