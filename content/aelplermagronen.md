@@ -9,10 +9,10 @@ author: alexander-bocken
 
 A swiss favorite, _Älplermagronen_ combines pretty much everything you have at your disposal in your alpine chalet.
 It's the definition of comfort food for the Swiss.
-
+<p align="center">
 - 🍳 Cook time: ~30 minutes
 - 🍽️  Servings: 4
-
+</p>
 ## Ingredients
 
 - ~150g (1/3 lb) bacon cubes
