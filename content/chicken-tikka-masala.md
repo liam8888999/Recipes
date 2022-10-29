@@ -16,7 +16,7 @@ date: 2022-04-16
 - 2 tablespoons olive oil
 - 4-1/2 teaspoons minced fresh gingerroot
 - 4 garlic cloves, minced
-- 1 tablespoon [garam masala](/garam-masala)
+- 1 tablespoon [garam masala](/recipes/garam-masala)
 - 2-1/2 teaspoons salt
 - 1-1/2 teaspoons ground cumin
 - 1 teaspoon paprika

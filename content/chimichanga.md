@@ -13,7 +13,7 @@ Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 ## Ingredients
 
-- [taco-meat](/taco-meat)
+- [taco-meat](/recipes/taco-meat)
 - 1 Onion
 - Diced Tomatoes
 - 1 Bell Pepper

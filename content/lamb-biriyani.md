@@ -6,7 +6,7 @@ author: ram-pari
 ---
 
 This recipe makes an Southern Indian (Tamil) style Lamb biriyani that has been adapted to a more western audience (aka a bit less spicy)
-and can be made with either Lamb or Mutton. Best served with a sauce such as an [onion raitha](/onion-raitha).
+and can be made with either Lamb or Mutton. Best served with a sauce such as an [onion raitha](/recipes/onion-raitha).
 
 ![Lamb Biriyani](/recipes/pix/lamb-biriyani.webp)
 
@@ -30,7 +30,7 @@ PS: the biriyani tastes better the longer it's allowed to soak in it's flavour a
 - 1 Green chilli (Optional)
 - 10 Garlic pearls
 - 5cm piece of Ginger
-- 1/2 Tbsp of [Garam Masala](/garam-masala)
+- 1/2 Tbsp of [Garam Masala](/recipes/garam-masala)
 - 1 Tbsp of Chilli Powder or Hungarian Smoked Paprika
 - Juice of 1/2 Lemon or 1 tsp of Vinegar
 - Dash of Tumeric Powder

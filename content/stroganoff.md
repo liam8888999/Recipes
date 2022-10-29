@@ -10,7 +10,7 @@ This is American-style stroganoff.
 ## Ingredients
 
 - beef
-- [chicken stock](/chicken-stock-bone-broth)
+- [chicken stock](/recipes/chicken-stock-bone-broth)
 - onions
 - flour
 - butter
