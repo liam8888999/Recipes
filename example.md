@@ -31,9 +31,3 @@ You may also include prep/cook time and the number of servings as below:
 4. If necessary,
 5. an image can be included between some directions if needed to explain something particular.
 6. But that should be kept to a minimum to reduce bandwidth and aid in simplicity.
-
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.

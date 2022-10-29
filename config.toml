@@ -1,11 +1,11 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://liam8888999.github.io/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'Recipe Book'
 theme = 'lugo'
 
 [params]
-  favicon = "/favicon.svg"
-  stylesheet = "/style.css"
+  favicon = "favicon.svg"
+  stylesheet = "style.css"
   indexarticles = 50
   taglist = true
 

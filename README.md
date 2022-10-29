@@ -1,11 +1,10 @@
 # Based Cooking Website
 
-[https://based.cooking](https://based.cooking)
+based on based.cooking
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
 
-This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
 
 ## Ways to contribute
 
@@ -33,10 +32,6 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 
 **If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
 
-You may include a json file with your personal links/donation addresses in
-`data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a
-model. You can include: `website`, `donate` (general donation link), `email` or
-crypto addresses as `btc`, `xmr` and `eth`.
 
 ### Tags
 
@@ -58,10 +53,10 @@ submit a better one.
 
 Images should be in `.webp` format and with as small file size as possible. If
 you submit an image for say, `chicken-parmesan.md`, it should be added as
-`pix/chicken-parmesan.webp`.
+`/pix/chicken-parmesan.webp`.
 
 If you would like to add additional directional images,
-they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, etc.
+they should be numbered with two digits like: `/pix/chicken-parmesan-01.webp`, etc.
 
 Note also that images should have links beginning with a slash in this use
 case, i.e. `/pix/...`.
