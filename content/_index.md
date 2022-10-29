@@ -1,6 +1,6 @@
 ---
 title: "🍲 Recipe Book🍳"
-description: 'The fast-loading recipe Book with cooking only and no ads.'
+description: 'The fast-loading recipe Book with recipes only and no ads.'
 layout: single
 ---
 
