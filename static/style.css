@@ -183,3 +183,7 @@ button#clear-search:hover {
 }
 
 .js-only { display: none ; }
+
+ul {
+	align: center;
+}
