@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // for each recipe hide all but matched
     recipes.forEach(recipe => {
-      const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase().normalize('NFD').replace(/recipes/\p{Diacritic}/gu, "");
+      const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, "");
       const isMatch = searchTerms.every(term => searchString.includes(term));
 
       recipe.hidden = !isMatch;
