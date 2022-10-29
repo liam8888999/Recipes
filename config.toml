@@ -6,7 +6,7 @@ theme = 'lugo'
 [params]
   favicon = "favicon.svg"
   stylesheet = "style.css"
-  indexarticles = 52
+  indexarticles = 50
   taglist = true
 
 [markup]
