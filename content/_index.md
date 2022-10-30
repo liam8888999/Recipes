@@ -4,6 +4,8 @@ description: 'The fast-loading recipe Book with recipes only and no ads.'
 layout: single
 ---
 
+<body onload="sortListDir()">
+
 ## What do you want to cook?
 
 <div class="search js-only">
@@ -62,7 +64,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## Newest Recipes
 
-<button onclick="sortListDir()">Sort</button>
 
 {{< artlist >}}
 
