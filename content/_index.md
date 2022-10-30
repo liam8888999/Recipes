@@ -101,6 +101,20 @@ function sortListDir() {
         }
       }
     }
+    if (shouldSwitch) {
+      /* If a switch has been marked, make the switch
+      and mark that a switch has been done: */
+      b[i].parentNode.insertBefore(b[i + 1], b[i]);
+      switching = true;
+      // Each time a switch is done, increase switchcount by 1:
+      switchcount ++;
+    } else {
+      /* If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again. */
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
     }
   }
 }
