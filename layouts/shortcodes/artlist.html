@@ -1,7 +1,8 @@
 <ul id=artlist>
+  {{ define "title" -}}
   		{{ range (sort .Pages "Title") }}
   	<li>
   	    <a href="{{ .Permalink }}">{{ .Title }}</a>
   	</li>
-  	{{ end }}
-  </ul>
+  {{- end }}
+</ul>
