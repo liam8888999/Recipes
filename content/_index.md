@@ -62,6 +62,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## Newest Recipes
 
+<button onclick="sortListDir()">Sort</button>
+
 {{< artlist >}}
 
 <script>
