@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <script>
 function sortList() {
   var list, i, switching, b, shouldSwitch;
-  list = document.getElementById("id01");
+  list = document.getElementById("artlist");
   switching = true;
   /* Make a loop that will continue until
   no switching has been done: */
