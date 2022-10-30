@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
 {{< artlist >}}
 
 <script>
-sortList(document.getElementsByClassName('artlist')[0]);
+sortList(document.getElementsById('artlist')[0]);
 
 function sortList(ul) {
   var new_ul = ul.cloneNode(false);
