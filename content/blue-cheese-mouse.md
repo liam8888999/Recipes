@@ -1,10 +1,11 @@
 ---
-title: "Clam appetizer dip"
+title: "Blue cheese mouse"
 date: 2022-10-30
 tags: ['Dairy', 'Appetiser']
 author: liam8888999
 ---
-![Clam Chowder Dip](/recipes/pix/clam-chowder-dip.png)
+![Blue Cheese Mouse](/recipes/pix/blue-cheese-mouse.png)
+
 - 🍳 Cook time: ~10 minutes + time in fridge to set
 - 🍽️  Servings: 10 portions
 
