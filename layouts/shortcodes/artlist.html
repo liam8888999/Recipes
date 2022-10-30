@@ -1,6 +1,6 @@
 <ul id=artlist>
 {{ $data := .Data }}
 {{ range $key, $value := .Data.Taxonomy.Alphabetical }}
-<li> <a href="{{.Permalink}}">{{.Title}}</a> {{ $value.Count }} </li>
+<li><a href="{{ .Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }} </li>
 {{ end }}
 </ul>
