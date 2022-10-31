@@ -69,6 +69,8 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 ## notify discord
+notify:
+  environment:
 - name: Discord Commits
         uses: Sniddl/discord-commits@v1.5
         with:
