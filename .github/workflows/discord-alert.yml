@@ -1,6 +1,12 @@
+name: Discord notify
 
-on: [push]
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["master"]
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 jobs:
   disord_test_message:
     runs-on: ubuntu-latest
