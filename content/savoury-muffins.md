@@ -19,7 +19,7 @@ author: liam8888999
 - 40ml tomato paste
 - 120g Matured cheddar cheese, grated
 - 120g onions, finely diced
-60g butter, melted
+- 60g butter, melted
 
 ## Directions
 
