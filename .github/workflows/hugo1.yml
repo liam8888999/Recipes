@@ -68,12 +68,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-## notify discord
-notify:
-  environment:
-- name: Discord Commits
-        uses: Sniddl/discord-commits@v1.5
-        with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          template: 'avatar-with-link'
-          include-extras: true
