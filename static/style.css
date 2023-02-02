@@ -180,6 +180,8 @@ button#clear-search:hover {
 
 .qr {
     max-height: 150px; ;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .js-only { display: none ; }
