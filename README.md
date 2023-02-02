@@ -1,16 +1,11 @@
-# Based Cooking Website
 
-based on based.cooking
-
-This is a simple cooking website where users can submit recipes here for credit.
-There are no ads, trackers or cookies (unless recipes thereof).
-
+Discord: https://discord.gg/x4Nk4sfgSg
 
 ## Ways to contribute
 
 - By adding a recipe.
 - Make a recipe and take a nice picture of it if no nice picture already
-  exists. Submitted images should be small `.webp` files ideally less than 100K
+  exists. Submitted images should be small image file ideally less than 100K
   or so.
 - Fix errors in recipes or add minor improvements.
 
@@ -51,9 +46,9 @@ Do not add stock images you found on the internet. Take a good picture yourself
 of the actual dish created. If you see a bad or substandard image, you may
 submit a better one.
 
-Images should be in `.webp` format and with as small file size as possible. If
+Images should have as small a file size as possible. If
 you submit an image for say, `chicken-parmesan.md`, it should be added as
-`/recipes/pix/chicken-parmesan.webp`.
+`/recipes/pix/chicken-parmesan.image-extension`.
 
 If you would like to add additional directional images,
 they should be numbered with two digits like: `/recipes/pix/chicken-parmesan-01.webp`, etc.
