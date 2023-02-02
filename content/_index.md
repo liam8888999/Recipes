@@ -41,6 +41,19 @@ document.addEventListener("DOMContentLoaded", () => {
       const searchString = `${recipe.textContent} ${recipe.dataset.tags}`.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, "");
       const isMatch = searchTerms.every(term => searchString.includes(term));
 
+      // Check all text on all pages
+      if (!isMatch) {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", recipe.dataset.path, true);
+        xhr.onreadystatechange = function() {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            const recipeText = xhr.responseText.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, "");
+            isMatch = searchTerms.every(term => recipeText.includes(term));
+          }
+        };
+        xhr.send();
+      }
+
       recipe.hidden = !isMatch;
       recipe.classList.toggle("matched-recipe", hasFilter && isMatch);
     })
