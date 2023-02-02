@@ -7,7 +7,7 @@ tags: ['Dairy', 'Soup']
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 70-80 min
-- 🍽️ Servings: 10
+- 🍽️ Servings: 25
 
 ## Ingredients
 
