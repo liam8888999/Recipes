@@ -2,13 +2,11 @@
 title: "Fresh Guacamole"
 date: 2021-03-12
 tags: ['mexican', 'spread', 'snack', 'fasting']
-author: yaroslav-smirnov
 ---
 
 ![Fresh Guacamole](/recipes/pix/guacamole.webp)
 
-A nice recipe that functions as a delicious and fresh appetizer, best eaten with
-some totopos corn chips, especially in a hot summer day.
+A nice recipe that functions as a delicious and fresh appetizer, best eaten with some totopos corn chips, especially in a hot summer day.
 
 ## Ingredients
 
@@ -30,7 +28,4 @@ And of course, some totopos to eat with.
 4. Add salt and black pepper to taste and mix thoroughly.
 5. Enjoy fresh with some totopos!
 
-This recipe is best consumed fresh, since the avocado oxidizes pretty fast and
-might lose its appetizing color and texture in just some hours.
-
-Originally published at [https://www.yaroslavps.com/food/fresh-guacamole/](https://www.yaroslavps.com/food/fresh-guacamole/)
+This recipe is best consumed fresh, since the avocado oxidizes pretty fast and might lose its appetizing color and texture in just some hours.

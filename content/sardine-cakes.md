@@ -1,8 +1,7 @@
 ---
 title: Sardine Cakes
-tags: ['seafood', 'fish', 'american', 'spicy']
 date: 2022-04-16
-author: "tom-fasano"
+tags: ['seafood', 'fish', 'american', 'spicy']
 ---
 
 Can be served with a Spicy Yogurt Sauce as Tapas or Hors D’Oeuvres.

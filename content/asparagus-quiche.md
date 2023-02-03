@@ -2,7 +2,6 @@
 title: "Asparagus quiche"
 date: 2022-11-06
 tags: ['Dairy', 'Snack']
-author: liam8888999
 ---
 
 ![Asparagus Quiche](/recipes/pix/asparagus-quiche.png)

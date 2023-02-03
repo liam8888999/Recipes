@@ -1,8 +1,7 @@
 ---
 title: Croque-monsieur bites
-tags: ['quick','cheese', 'french']
 date: 2022-06-24
-author: "SofianeHamlaoui"
+tags: ['quick','cheese', 'french']
 ---
 
 ![croquemsr](/recipes/pix/croque-monsieur.webp)
@@ -13,18 +12,18 @@ author: "SofianeHamlaoui"
 
 ## Ingredients
 
-- For the bechamel
-  - 50g Butter
-  - 50g Flour
-  - 1 Liter of milk
-  - Salt
-  - Ground Pepper
-  - Nutmeg
-- For the bites
-  - 12 Slices of bread
-  - 2 Tbsp of Mustard
-  - 12 very thin slices of ham with Italian herbs
-  - 80g grated cheese (Emmental, Comté Gruyère Mimolette
+### For the bechamel
+- 50g Butter
+- 50g Flour
+- 1 Liter of milk
+- Salt
+- Ground Pepper
+- Nutmeg
+### For the bites
+- 12 Slices of bread
+- 2 Tbsp of Mustard
+- 12 very thin slices of ham with Italian herbs
+- 80g grated cheese (Emmental, Comté Gruyère Mimolette
 
 ## Directions
 

@@ -2,7 +2,6 @@
 title: "Brigadeiro"
 date: 2021-03-16
 tags: ['dessert', 'quick', 'brazilian', 'cheesefare']
-author: daniel-kemmerich
 ---
 
 ![Brigadeiro](/recipes/pix/brigadeiro.webp)
@@ -23,6 +22,6 @@ A very traditional Brazilian dessert that is present in every Brazilian birthday
 3. Remove it from the pan and eat it with a spoon or roll it into small balls.
 4. If you chose to roll it into balls, you may also roll them around in sprinkles while still hot.
 
-## Closing remarks
+## Note
 
 Depending on how much brigadeiro you want to make, you'll have to add more or less of each ingredient, so be creative! Be careful with the chocolate powder, you definitely do not want to add too much of it!

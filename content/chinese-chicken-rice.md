@@ -2,7 +2,6 @@
 title: "Chinese Chicken Rice"
 date: 2022-10-29
 tags: ['chinese', 'rice', 'chicken']
-author: liam8888999
 ---
 
 ![chinese-chicken-rice](/recipes/pix/chinese-chicken-rice.webp)

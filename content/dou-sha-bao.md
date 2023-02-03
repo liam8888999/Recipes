@@ -1,8 +1,7 @@
 ---
 title: "Red Bean Buns (豆沙包)"
-author: tufek
-tags: ['chinese', 'snack', 'breakfast']
 date: 2022-05-31
+tags: ['chinese', 'snack', 'breakfast']
 ---
 
 ![Dou-Sha-Bao](/recipes/pix/dou-sha-bao.webp)

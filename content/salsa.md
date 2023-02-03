@@ -1,8 +1,7 @@
 ---
 title: "Salsa"
-tags: ['quick', 'basic', 'mexican', 'tomato']
 date: 2022-04-16
-author: "Lars Henrik Bolstad"
+tags: ['quick', 'basic', 'mexican', 'tomato']
 ---
 
 - ⏲️ Prep time: 5 min

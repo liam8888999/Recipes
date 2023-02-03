@@ -1,8 +1,8 @@
 ---
 title: Smoked Salmon Quiche
-tags: ['fish', 'eggs', 'french']
 date: 2022-09-10
-author: joel-maxuel
+
+tags: ['fish', 'eggs', 'french']
 ---
 
 

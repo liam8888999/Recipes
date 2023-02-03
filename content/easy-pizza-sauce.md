@@ -1,8 +1,7 @@
 ---
 title: Easy Pizza Sauce
-tags: ['pizza', 'sauce', 'italian']
 date: 2022-07-15
-author: "leo-meinel"
+tags: ['pizza', 'sauce', 'italian']
 ---
 
 ![Easy-Pizza-Sauce](/recipes/pix/easy-pizza-sauce.webp)

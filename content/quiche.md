@@ -1,7 +1,6 @@
 ---
 title: Quiche Lorraine - Lothringer Käsetorte
 date: 2022-05-17
-author: benjamin-h
 tags: ['cheese', 'french', 'ham']
 ---
 
@@ -38,4 +37,7 @@ tags: ['cheese', 'french', 'ham']
 15. Cover the ham in the baking tin with the mixture. Equalize the surface.
 16. Bake the Quiche in the oven on the middle rail for 30 minutes.
 17. After baking leave it to rest for a few minutes, then serve while it's still warm.
-I recommend serving it with a glass of white wine.
+
+## Note
+
+- I recommend serving it with a glass of white wine.

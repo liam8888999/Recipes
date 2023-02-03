@@ -2,7 +2,6 @@
 title: "Beef Goulash"
 date: 2021-03-12
 tags: ['beef', 'stew']
-author: yaroslav-smirnov
 ---
 
 ![Beef Goulash](/recipes/pix/beef-goulash.webp)
@@ -15,22 +14,22 @@ Although it takes some time to make, it is actually quite easy to make, and it i
 
 ## Ingredients
 
-* 500g beef
-* 300-400g potatoes
-* 1 carrot
-* 1 medium onion
-* 12 tablespoons tomato paste
-* 500ml water
-* 3-4 garlic cloves
-* 3-4 bay leaves
-* Curcuma
-* Paprika
-* Oregano
-* Parsley
-* Caraway
-* Basil (optional)
-* Cilantro (optional)
-* 2-3 champignon mushrooms (optional)
+- 500g beef
+- 300-400g potatoes
+- 1 carrot
+- 1 medium onion
+- 12 tablespoons tomato paste
+- 500ml water
+- 3-4 garlic cloves
+- 3-4 bay leaves
+- Curcuma
+- Paprika
+- Oregano
+- Parsley
+- Caraway
+- Basil (optional)
+- Cilantro (optional)
+- 2-3 champignon mushrooms (optional)
 
 ## Directions
 
@@ -50,5 +49,3 @@ Although it takes some time to make, it is actually quite easy to make, and it i
    things, like watching memes.
 9. Remove from stove, serve hot and enjoy with some beer or cider (or your
    favorite beverage).
-
-Originally published at [https://www.yaroslavps.com/food/beef-goulash/](https://www.yaroslavps.com/food/beef-goulash/)

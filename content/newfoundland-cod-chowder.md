@@ -1,8 +1,7 @@
 ---
 title: Newfoundland Cod Chowder
-tags: ['fish', 'soup', 'seafood']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['fish', 'soup', 'seafood']
 ---
 
 - ⏲️ Prep time: 10 min

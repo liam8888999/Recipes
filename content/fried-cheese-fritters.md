@@ -2,7 +2,6 @@
 title: "Fried cheese fritters"
 date: 2022-10-29
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 
 - 🍳 Cook time: ~30 minutes

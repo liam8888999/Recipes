@@ -2,7 +2,6 @@
 title: "Savoury muffins"
 date: 2022-11-06
 tags: ['Dairy', 'Snack']
-author: liam8888999
 ---
 
 - ⏲️ Prep time: 15 min

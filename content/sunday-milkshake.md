@@ -2,15 +2,11 @@
 title: "Sunday Morning Milkshake"
 date: 2021-03-12
 tags: ['sweet', 'breakfast', 'drink', 'cheesefare']
-author: yaroslav-smirnov
 ---
 
 ![Sunday Morning Milkshake](/recipes/pix/sunday-milkshake.webp)
 
-A sweet and refreshing milkshake that barely requires any effort to make. You're
-not required to make it and drink it on Sunday, it was just almost a tradition
-in my family to make it on the weekends, and it somehow does taste better on a
-Saturday or Sunday morning.
+A sweet and refreshing milkshake that barely requires any effort to make. You're not required to make it and drink it on Sunday, it was just almost a tradition in my family to make it on the weekends, and it somehow does taste better on a Saturday or Sunday morning.
 
 ## Ingredients
 
@@ -25,14 +21,9 @@ These are for about 4 glasses or 1 liter:
 ## Directions
 
 1. Chop the banana so that it fits better in the blender.
-2. Add the banana pieces, berries, vanilla and sugar to taste to the blender.
-   Usually I use about 6 tea spoons of sugar.
+2. Add the banana pieces, berries, vanilla and sugar to taste to the blender. Usually I use about 6 tea spoons of sugar.
 3. Pour enough milk so that the mix fills a liter of the blender volume.
 4. Blend it until the mix looks somewhat homogeneous.
 5. Pour it and enjoy!
 
-Basically anything is better consumed fresh, but it is especially the case for
-this milkshake recipe. If you leave it sitting for more than 10-15 minutes it
-won't be so delicious anymore.
-
-Originally published at [https://www.yaroslavps.com/food/sunday-morning-milkshake/](https://www.yaroslavps.com/food/sunday-morning-milkshake/)
+Basically anything is better consumed fresh, but it is especially the case for this milkshake recipe. If you leave it sitting for more than 10-15 minutes it won't be so delicious anymore.

@@ -1,8 +1,7 @@
 ---
 title: "Frijol con puerco"
-tags: ['beans', 'mexican', 'yucatecan' ,'pork']
 date: 2022-04-16
-author: bianca-purin
+tags: ['beans', 'mexican', 'yucatecan' ,'pork']
 ---
 
 - ⏲️ Prep time: 10 min

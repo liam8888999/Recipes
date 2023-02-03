@@ -1,8 +1,7 @@
 ---
 title: One-Pot Chicken Tetrazzini
-tags: ['chicken', 'pasta', 'italian']
 date: 2022-09-11
-author: joel-maxuel
+tags: ['chicken', 'pasta', 'italian']
 ---
 
 

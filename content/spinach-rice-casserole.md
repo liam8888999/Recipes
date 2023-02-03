@@ -1,8 +1,7 @@
 ---
 title: Spinach-Rice Casserole
-tags: ['spinach', 'rice']
 date: 2022-08-04
-author: joel-maxuel
+tags: ['spinach', 'rice']
 ---
 
 - ⏲️ Prep time: 10 min

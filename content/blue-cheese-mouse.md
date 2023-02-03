@@ -2,7 +2,6 @@
 title: "Blue cheese mouse"
 date: 2022-10-30
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 ![Blue Cheese Mouse](/recipes/pix/blue-cheese-mouse.png)
 

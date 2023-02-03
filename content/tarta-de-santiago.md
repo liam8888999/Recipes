@@ -2,7 +2,6 @@
 title: "Tarta de Santiago"
 date: 2022-07-03
 tags: ['spanish', 'almond', 'cake', 'galician']
-author: laura-alvarez
 ---
 
 ![Tarta de Santiago](/recipes/pix/tarta-de-santiago.webp)
@@ -15,14 +14,14 @@ Delicious Spanish almond cake or famously known as tarta de Santiago. This is a 
 
 ## Ingredients
 
-* 3 eggs
-* ¾ cup sugar (150 gr)
-* 1 ½ cup almond meal (150 gr)
-* ½ teaspoon cinnamon powder
-* ¼ teaspoon salt
-* Zest of 1 lemon
-* Zest of 1 clementine
-* Icing sugar, for dusting on top
+- 3 eggs
+- ¾ cup sugar (150 gr)
+- 1 ½ cup almond meal (150 gr)
+- ½ teaspoon cinnamon powder
+- ¼ teaspoon salt
+- Zest of 1 lemon
+- Zest of 1 clementine
+- Icing sugar, for dusting on top
 
 ## Directions
 
@@ -33,4 +32,4 @@ Delicious Spanish almond cake or famously known as tarta de Santiago. This is a 
 
 ## Notes
 
-* As I mentioned earlier, this cake is dusted with icing sugar with an imprint of Santiago's cross on its top surface. You can also make an imprint of a scallop shell. Or with no imprint at all. Your choice.
+- As I mentioned earlier, this cake is dusted with icing sugar with an imprint of Santiago's cross on its top surface. You can also make an imprint of a scallop shell. Or with no imprint at all. Your choice.

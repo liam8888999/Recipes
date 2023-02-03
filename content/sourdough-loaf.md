@@ -2,7 +2,6 @@
 title: "Sourdough Table Loaf"
 date: 2021-03-21
 tags: ['bread', 'sourdough']
-author: "Quinn & Alison"
 ---
 
 ![Sourdough Table Loaf](/recipes/pix/sourdough-loaf.webp)
@@ -11,12 +10,12 @@ If you've never made your own sourdough bread, it can be intimidating! But I bel
 
 ## Ingredients
 
-* 100g fed [sourdough starter](/recipes/sourdough-starter) (levain)
-* 330g warm water
-* 137g bread flour
-* 250g all-purpose flour (avoid bleached and enriched)
-* 87g rye or whole wheat flour
-* 7g sea salt
+- 100g fed [sourdough starter](/recipes/sourdough-starter) (levain)
+- 330g warm water
+- 137g bread flour
+- 250g all-purpose flour (avoid bleached and enriched)
+- 87g rye or whole wheat flour
+- 7g sea salt
 
 ## Directions
 

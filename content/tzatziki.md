@@ -1,7 +1,7 @@
 ---
 title: "Tzatziki"
-tags: ['basic', 'snack', 'spread', 'traditional']
 date: 2022-04-16
+tags: ['basic', 'snack', 'spread', 'traditional']
 ---
 
 ![Tzatziki](/recipes/pix/tzatziki.webp)

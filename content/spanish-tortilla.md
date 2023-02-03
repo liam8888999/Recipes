@@ -2,7 +2,6 @@
 title: "Spanish Tortilla"
 date: 2021-03-21
 tags: ['spanish', 'potato', 'eggs', 'tortilla']
-author: octopusonfire
 ---
 
 ![Spanish Tortilla](/recipes/pix/spanish-tortilla.webp)
@@ -34,4 +33,4 @@ author: octopusonfire
 
 ## Notes
 
-* Things like the slicing of the potato, the amount of salt and how curdled is the inner part of the tortilla depend on your own taste. Don't be afraid to experiment!
+- Things like the slicing of the potato, the amount of salt and how curdled is the inner part of the tortilla depend on your own taste. Don't be afraid to experiment!

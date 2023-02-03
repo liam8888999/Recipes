@@ -14,11 +14,11 @@ Nashville Hot Chicken was invented by a man named Thorton Prince. It is said tha
 
 ## Ingredients
 
-Batter
+### Batter
 - 2 Cups Buttermilk
 - 1/3 Cup Hot sauce
 
-Flour
+### Flour
 - 2 1/2 Cups All-purpose flour
 - 3 tbsp Cornstarch
 - 3 tbsp Seasoned salt
@@ -29,7 +29,7 @@ Flour
 - 1 tbsp Onion powder
 - 2 tsp Dry mustard powder
 
-Nashville Hot Chicken
+### Nashville Hot Chicken
 - 2 tbsp Nashville Hot Chicken seasoning
 - 2 tbsp Adobo honey seasoning
 - 2 tbsp Dark brown sugar
@@ -38,7 +38,7 @@ Nashville Hot Chicken
 - 1 tsp Smoked paprika
 - 1 1/2 Cups Cooking oil Used to fry the chicken
 
-Sauce For the Buns
+### Sauce For the Buns
 - 3 tbsp Mayo
 - 1 tbsp Ketchup
 - 2 tbsp Sweet relish

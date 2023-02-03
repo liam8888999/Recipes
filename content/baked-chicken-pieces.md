@@ -2,7 +2,6 @@
 title: "Baked chicken pieces"
 date: 2022-11-06
 tags: ['Dairy', 'Snack']
-author: liam8888999
 ---
 
 ![Baked Chicken Pieces](/recipes/pix/baked-chicken-pieces.png)

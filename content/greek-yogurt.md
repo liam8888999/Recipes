@@ -2,14 +2,13 @@
 title: "Greek Yogurt"
 date: 2022-04-16
 tags: ['basic', 'cheesefare']
-author: "SuperDuperDeou" 
 ---
 
 ## Ingredients
 
 - 2 thermos, ½l capacity each
 - thermometer
-- 1 cheesecloth 
+- 1 cheesecloth
 - 1l milk
 - 100ml yogurt
 

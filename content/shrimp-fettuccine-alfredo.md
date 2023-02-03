@@ -1,8 +1,7 @@
 ---
 title: 'Shrimp Fettuccine Alfredo'
-author: bilovytskyy
-tags: ['pasta', 'italian', 'shrimp']
 date: 2022-06-29
+tags: ['pasta', 'italian', 'shrimp']
 ---
 
 Shrimp fettuccine alfredo is one of the best tasting and low effort dishes.
@@ -27,6 +26,7 @@ This is a great meal for 3-4 people or you can eat one serving and freeze the re
 ## Directions
 
 ### Initial Preparation (5-10 minutes)
+
 1. Grate your Parmesan Cheese
 2. Peel your shrimp
 
@@ -34,11 +34,13 @@ The dish has two main parts--the Pasta and the Alfredo Sauce.
 In order that you can have both finish about the same time, I have given estimates on the individual cook times.
 
 ### Preparing the Pasta (10-20 minutes)
+
 1. In a medium saucepan, bring 4 cups of water to a rapid boil.
 2. Turn down to medium heat (Simmering).
 3. Add your pasta noodles.
 
 ### Preparing the Alfredo Sauce (7-10 minutes)
+
 1. In a large frying pan, add butter, garlic powder, and shrimp.
 2. On medium heat, sauté ingredients until shrimp are cooked.
 3. Then add the cream cheese broken into chunks.
@@ -50,5 +52,6 @@ In order that you can have both finish about the same time, I have given estimat
 9. Remove from heat.
 
 ### Serving
+
 1. Strain cooked pasta noodles.
 2. Serve the strained noodles on a plate and top with alfredo sauce.

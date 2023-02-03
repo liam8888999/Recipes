@@ -2,17 +2,16 @@
 title: "Salsa Verde"
 date: 2021-03-19
 tags: ['mexican', 'sauce']
-author: "Nathan"
 ---
 
 ## Ingredients
 
-* 1 pound (450g) tomatillos, husks removed
-* 1 clove garlic
-* 2 jalapeño or serrano chilies
-* 1/2 cup (26g) chopped onion
-* 3 Tbsp (40ml) oil
-* cilantro
+- 1 pound (450g) tomatillos, husks removed
+- 1 clove garlic
+- 2 jalapeño or serrano chilies
+- 1/2 cup (26g) chopped onion
+- 3 Tbsp (40ml) oil
+- cilantro
 
 ## Directions
 

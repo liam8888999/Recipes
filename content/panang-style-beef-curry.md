@@ -1,8 +1,7 @@
 ---
 title: Panang-Style Beef Curry
-tags: ['beef', 'curry', 'thai']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['beef', 'curry', 'thai']
 ---
 
 - ⏲️ Prep time: 10 min

@@ -2,7 +2,6 @@
 title: "Cottage Cheese Sherry Dip"
 date: 2022-11-06
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 ![Cottage Cheese Sherry Dip](/recipes/pix/cottage-cheese-sherry-dip.png)
 

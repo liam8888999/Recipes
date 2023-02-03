@@ -1,8 +1,7 @@
 ---
 title: Tofu and Cashew Chow Mein
-tags: ['tofu', 'asian']
 date: 2022-09-10
-author: joel-maxuel
+tags: ['tofu', 'asian']
 ---
 
 Precooked thick wheat noodles are typically found in the refrigerated section of the supermarket. Preparing soba noodles is a worthy substitute.

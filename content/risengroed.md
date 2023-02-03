@@ -1,8 +1,7 @@
 ---
 title: Risengrød
-tags: ['danish', 'christmas']
 date: 2022-11-16
-author: "Vilhelm Bergsøe"
+tags: ['danish', 'christmas']
 ---
 
 ![risen groed](/recipes/pix/risengroed.webp)

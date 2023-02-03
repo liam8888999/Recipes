@@ -1,8 +1,7 @@
 ---
 title: Spicy Kung Pao-Style Chicken
-tags: ['chicken', 'rice', 'asian']
 date: 2022-09-11
-author: joel-maxuel
+tags: ['chicken', 'rice', 'asian']
 ---
 
 

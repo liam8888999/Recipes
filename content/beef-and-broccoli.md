@@ -1,8 +1,7 @@
 ---
 title: Beef and Broccoli
-tags: ['beef', 'asian', 'rice']
 date: 2022-09-10
-author: joel-maxuel
+tags: ['beef', 'asian', 'rice']
 ---
 
 

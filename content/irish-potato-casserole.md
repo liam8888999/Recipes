@@ -1,8 +1,7 @@
 ---
 title: Irish Potato Casserole
-tags: ['irish', 'traybake']
 date: 2022-09-10
-author: joel-maxuel
+tags: ['irish', 'traybake']
 ---
 
 - ⏲️ Prep time: 5 min

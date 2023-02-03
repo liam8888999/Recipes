@@ -1,8 +1,7 @@
 ---
 title: Red Lentil Dahl
-tags: ['indian', 'curry', 'tomato', 'vegetables']
 date: 2022-08-04
-author: joel-maxuel
+tags: ['indian', 'curry', 'tomato', 'vegetables']
 ---
 
 - ⏲️ Prep time: 10 min

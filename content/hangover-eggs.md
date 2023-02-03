@@ -2,12 +2,9 @@
 title: "Hangover Eggs"
 date: 2021-03-12
 tags: ['eggs', 'snack', 'quick', 'cheesefare']
-author: dr-cat
 ---
 
-Whenever my friends back home would drink to excess, they'd wake up wanting something tasty. I made them what I call "Hangover Eggs". Whether
-or not you're hungover, they're very delicious! I've recently been making them to gain weight, though you can alter the recipe to whatever
-suits your lifestyle.
+Whenever my friends back home would drink to excess, they'd wake up wanting something tasty. I made them what I call "Hangover Eggs". Whether or not you're hungover, they're very delicious! I've recently been making them to gain weight, though you can alter the recipe to whatever suits your lifestyle.
 
 ## Ingredients
 
@@ -33,5 +30,4 @@ suits your lifestyle.
 10. Turn off the heat and move the pan off the burner. Take out bread pieces and place on the same plate as the eggs.
 11. Serve with glass of ice-cold beer.
 
-Ideally, you won't even need a fork! Simply use the bread to guide the eggs on top of each piece, break the yolk into the piece, and take a large
-bite.
+Ideally, you won't even need a fork! Simply use the bread to guide the eggs on top of each piece, break the yolk into the piece, and take a large bite.

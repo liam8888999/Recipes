@@ -1,8 +1,7 @@
 ---
 title: "Chipolata Sausage in Balsamic Vinegar"
-tags: ['beef', 'oven', 'italian']
 date: 2022-07-27
-author: "Kensix"
+tags: ['beef', 'oven', 'italian']
 ---
 
 Easy to prepare Italian dish with lots of flavour great for a relaxing evening dipping bread and sipping wine.
@@ -30,7 +29,7 @@ Easy to prepare Italian dish with lots of flavour great for a relaxing evening d
 5. Add the 2 remaining garlic cloves to the oven dish, This can be done with the skin to create a garlic spread for the bread.
 6. Add 3 tablespoons of oil to the oven dish and toss to cover everything in oil
 7. Put the dish in the oven for 30 minutes. Toss everything around at 15 minutes to ensure even baking.
-8. Cut half of the cherry tomatos in half keep the other half intact.
+8. Cut half of the cherry tomatoes in half keep the other half intact.
 9. After 30 minutes take the dish out of the oven.
 10. Add all the tomatoes to the oven dish.
 11. Add 3 tablespoons of balsamic vinegar to the oven dish.

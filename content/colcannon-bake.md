@@ -1,8 +1,7 @@
 ---
 title: Colcannon Bake
-tags: ['cheesefare', 'potato', 'irish']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['cheesefare', 'potato', 'irish']
 ---
 
 - ⏲️ Prep time: 20 min

@@ -2,7 +2,6 @@
 title: "Camembert Slice"
 date: 2022-10-29
 tags: ['Dairy', 'Appetiser', 'Pastry']
-author: liam8888999
 ---
 
 ![camembert-slice](/recipes/pix/camembert-slice.png)

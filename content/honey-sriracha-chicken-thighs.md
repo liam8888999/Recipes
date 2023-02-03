@@ -1,8 +1,7 @@
 ---
 title: "Honey Sriracha Chicken Thighs"
-tags: ['chicken', 'spicy']
-author: "Kevin Anderson"
 date: 2022-04-16
+tags: ['chicken', 'spicy']
 ---
 
 ![Honey Sriracha Chicken Thighs](/recipes/pix/honey-sriracha-chicken-thighs.webp)
@@ -16,13 +15,13 @@ Conversely, if you like spicy foods, consider a 1:1 ratio of sriracha and honey.
 
 ## Ingredients
 
-* 5-6 bone-in, skin-on chicken thighs
-* 1 tablespoon olive oil
-* 1/3 cup honey
-* 2 tablespoons sriracha hot sauce
-* 1/2 teaspoon kosher salt
-* 1/2 teaspoon black pepper
-* Sesame seeds as a garnish (optional)
+- 5-6 bone-in, skin-on chicken thighs
+- 1 tablespoon olive oil
+- 1/3 cup honey
+- 2 tablespoons sriracha hot sauce
+- 1/2 teaspoon kosher salt
+- 1/2 teaspoon black pepper
+- Sesame seeds as a garnish (optional)
 
 ## Directions
 

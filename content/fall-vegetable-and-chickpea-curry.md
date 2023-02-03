@@ -1,8 +1,7 @@
 ---
 title: Fall Vegetable and Chickpea Curry
-tags: ['fasting', 'curry']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['fasting', 'curry']
 ---
 
 Can be served over rice or on its own with a dollop of yogurt.

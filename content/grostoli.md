@@ -1,11 +1,10 @@
 ---
-title: Grostoli 
-tags: ['Fry', 'Italian', 'Brazilian']
+title: Grostoli
 date: 2022-09-21
-author: "bernardo-slongo"
+tags: ['Fry', 'Italian', 'Brazilian']
 ---
 
-Very popular fritter in Italian colonies throughout South Brazil. Not to be mistaken with Venetian Crostoli or Chiacchiere, even though those are still made. My grandmother's recipe is more like Castagnole with Crostoli shape, with some post-Italian adaptations. 
+Very popular fritter in Italian colonies throughout South Brazil. Not to be mistaken with Venetian Crostoli or Chiacchiere, even though those are still made. My grandmother's recipe is more like Castagnole with Crostoli shape, with some post-Italian adaptations.
 
 
 - ⏲️ Prep time: 30 min
@@ -20,7 +19,7 @@ Very popular fritter in Italian colonies throughout South Brazil. Not to be mist
 - A pinch of salt
 - 4 eggs
 - 3 tablespoons of lard or butter.
-- 4 tablespoons of a 40% a.b.v. spirit. Cachaça is the main one, Rum or Grappa will do. 
+- 4 tablespoons of a 40% a.b.v. spirit. Cachaça is the main one, Rum or Grappa will do.
 - A cup of milk.
 
 ## Directions
@@ -32,4 +31,3 @@ Very popular fritter in Italian colonies throughout South Brazil. Not to be mist
 5. Sprinkle the flour and finally, cut the dough into rectangles.
 6. Make a vertical cut in the middle, and twist the sides.
 7. Fry it in lard until it browns and sprinkle it on sugar and cinnamon.
-

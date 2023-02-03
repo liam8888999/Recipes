@@ -2,7 +2,6 @@
 title: "Crab quiche"
 date: 2022-11-06
 tags: ['Dairy', 'Snack']
-author: liam8888999
 ---
 
 ![Crab quiche](/recipes/pix/crab-quiche.png)

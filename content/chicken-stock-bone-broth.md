@@ -2,7 +2,6 @@
 title: "Chicken Stock or Bone Broth"
 date: 2021-03-10
 tags: ['chicken', 'stock', 'basic']
-author: luke-smith
 ---
 
 Chicken stock, or "bone broth" is not a final dish in itself, but is used in many soups and other dishes to add great taste to something otherwise very simple.
@@ -30,5 +29,7 @@ While it is easy to make, it sells for very expensive in the store, so it's a go
 6. You may want to remove with a spoon or other instrument the bubbles that form on the top. This will give you a clearer stock, but it is not necessary.
 7. Strain the liquid, now stock, into another container for storage or use.
 
-You may also eat the remaining chicken, possibly for lunchmeat, but since it has imparted its flavor to the stock, it will be slightly more bland so some seasoning might be advised.
-You may eat or compost the remaining vegetables.
+## Note
+
+- You may also eat the remaining chicken, possibly for lunchmeat, but since it has imparted its flavor to the stock, it will be slightly more bland so some seasoning might be advised.
+- You may eat or compost the remaining vegetables.

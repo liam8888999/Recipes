@@ -2,7 +2,6 @@
 title: "Spaghetti with Seafood & Snowpea Sprouts"
 date: 2022-10-29
 tags: ['Sea Food', 'Dairy Free', 'Pasta']
-author: liam8888999
 ---
 
 ![spaghetti-with-seafood-and-snowpea-sprouts](/recipes/pix/spaghetti-with-seafood-and-snowpea-sprouts.jpeg)

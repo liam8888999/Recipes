@@ -1,8 +1,7 @@
 ---
 title: Easy Chicken and Rice Casserole
-tags: ['chicken', 'quick', 'easy']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['chicken', 'quick', 'easy']
 ---
 
 - ⏲️ Prep time: 5 min

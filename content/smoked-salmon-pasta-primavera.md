@@ -1,8 +1,7 @@
 ---
 title: Smoked Salmon Pasta Primavera
-tags: ['fish', 'pasta']
 date: 2022-09-11
-author: joel-maxuel
+tags: ['fish', 'pasta']
 ---
 
 

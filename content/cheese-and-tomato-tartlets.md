@@ -2,7 +2,6 @@
 title: "Cheese and tomato tartlets"
 date: 2022-11-06
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 
 - 🍳 Cook time: ~10 minutes

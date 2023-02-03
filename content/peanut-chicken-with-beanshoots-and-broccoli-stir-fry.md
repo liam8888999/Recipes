@@ -2,7 +2,6 @@
 title: "Peanut Chicken with Beanshoots & Broccoli Stir-Fry"
 date: 2022-10-29
 tags: ['Chicken', 'Dairy Free', 'Peanut']
-author: liam8888999
 ---
 
 ![peanut-chicken-with-beanshoots-and-broccoli-stir-fry](/recipes/pix/peanut-chicken-with-beanshoots-and-broccoli-stir-fry.jpeg)

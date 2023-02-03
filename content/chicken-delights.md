@@ -2,7 +2,6 @@
 title: "Chicken Delights"
 date: 2022-10-29
 tags: ['Dairy', 'Appetiser', Chicken]
-author: liam8888999
 ---
 
 - 🍳 Cook time: ~30 minutes

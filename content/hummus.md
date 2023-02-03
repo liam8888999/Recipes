@@ -2,7 +2,6 @@
 title: "Hummus"
 date: 2021-03-13
 tags: ['basic', 'snack', 'spread', 'fasting']
-author: jacob-smith
 ---
 
 ![Hummus](/recipes/pix/hummus.webp)

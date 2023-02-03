@@ -2,7 +2,6 @@
 title: "Yorkshire Puddings"
 date: 2021-04-20
 tags: ['english', 'side']
-author: siggines
 ---
 
 ![Yorkshire Puddings](/recipes/pix/yorkshire-puddings.webp)
@@ -30,5 +29,3 @@ Puddings may be preserved in freezer for up to a month.
 5. Add milk to bowl in small amounts, beating/whisking after each addition. Until there are no lumps in the batter. You may season with salt & pepper.
 6. Tip batter into a jug so that you may pour into the cupcake pan slots evenly and carefully.
 7. Bake undisturbed ( opening oven will impede the rising ), until the puddings have puffed up and browned.
-
-Originally published at https://www.bbcgoodfood.com/best-yorkshire-puddings

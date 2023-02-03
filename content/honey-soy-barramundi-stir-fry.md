@@ -2,7 +2,6 @@
 title: "Honey Soy Chicken Barramundi Stir-Fry"
 date: 2022-10-29
 tags: ['stir-fry', 'fish', 'noodles', 'Asian', 'High Fibre', 'Dairy Free']
-author: liam8888999
 ---
 
 ![honey-soy-chicken-barramundi-stir-fry](/recipes/pix/honey-soy-chicken-barramundi-stir-fry.jpeg)

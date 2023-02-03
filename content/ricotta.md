@@ -2,7 +2,6 @@
 title: "Ricotta"
 date: 2022-04-16
 tags: ['basic', 'italian','cheesefare']
-author: "SuperDuperDeou"
 ---
 
 The ricotta is an Italian cheese made by cooking the whey (liquid byproduct of the cheese production), by cooking it at an high temperature (80-90°C), hence the name "ricotta", which means "cooked again". Even though it's typically made from the whey, you can make it directly from the milk as well.
@@ -21,9 +20,9 @@ The ricotta is an Italian cheese made by cooking the whey (liquid byproduct of t
 
 ### Preparation
 
-Pour the milk (and/or whey) and the salt into a pot, stir it well, and heat it up to 80°C.
-Once the temperature has been reached, add the citric acid (or lemon juice) and stir well. You should already see the citric acid react with the milk/whey.
-Heat it up to 90°C
-Pour the ricotta in the cheesecloth and let the whey drip.
-Move the ricotta into the cheese recipient.
-Store in the fridge.
+1. Pour the milk (and/or whey) and the salt into a pot, stir it well, and heat it up to 80°C.
+2. Once the temperature has been reached, add the citric acid (or lemon juice) and stir well. You should already see the citric acid react with the milk/whey.
+3. Heat it up to 90°C
+4. Pour the ricotta in the cheesecloth and let the whey drip.
+5. Move the ricotta into the cheese recipient.
+6. Store in the fridge.

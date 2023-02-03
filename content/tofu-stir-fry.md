@@ -2,14 +2,12 @@
 title: "Tofu Stir Fry"
 date: 2021-03-23
 tags: ['tofu', 'fasting']
-author: kelvin-shadewing
 ---
 
 A vegetarian dish that is easy to make and very flavorful. Goes well with rice or noodles
 
-Serves 3 to 5.
-
-Cooking time: ~10 to 20 minutes
+- 🍽️ Servings: 3-5
+- 🍳 Cook time: ~10-20 min
 
 ## Ingredients
 

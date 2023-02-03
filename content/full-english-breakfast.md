@@ -1,8 +1,7 @@
 ---
 title: "Full English Breakfast"
-author: reneon
-tags: ['english', 'breakfast']
 date: 2022-04-15
+tags: ['english', 'breakfast']
 ---
 
 This is a hearty English breakfast, common in the UK. This recipe is made up largely of ingredients that someone would have in their fridge/cooler, although for an authentic experience, purchasing English back bacon and English sausages would be preferable.

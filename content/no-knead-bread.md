@@ -2,7 +2,6 @@
 title: "No-knead Bread"
 date: 2021-03-21
 tags: ['bread', 'dough']
-author: enthdegree
 ---
 
 ![Finished bread](/recipes/pix/no-knead-bread-1.webp)
@@ -21,8 +20,8 @@ author: enthdegree
 
 ## Directions
 
- 1. Mix the dry ingredients then add the hot water. It should come out as a firm dough.
- 2. Leave the dough at room temperature for 12 hours. You can then keep the dough in the fridge for up to 48 hours before cooking.
+1. Mix the dry ingredients then add the hot water. It should come out as a firm dough.
+2. Leave the dough at room temperature for 12 hours. You can then keep the dough in the fridge for up to 48 hours before cooking.
     ![Before baking](/recipes/pix/no-knead-bread-2.webp)
- 3. Preheat oven and pan to 450 F (230 C).
- 4. Bake for 30 minutes covered (e.g. aluminum foil), then 20 minutes uncovered.
+3. Preheat oven and pan to 450 F (230 C).
+4. Bake for 30 minutes covered (e.g. aluminum foil), then 20 minutes uncovered.

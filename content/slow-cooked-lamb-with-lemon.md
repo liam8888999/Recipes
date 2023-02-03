@@ -2,7 +2,6 @@
 title: "Slow-cooked Lamb with Lemon"
 author: ben-stox
 tags: ['lamb', 'roast', 'lemons', 'mediterranean']
-date: 2022-04-16
 ---
 
 ![Slow-cooked Lamb with Lemon](/recipes/pix/slow-cooked-lamb-with-lemon.webp)

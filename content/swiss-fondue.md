@@ -2,7 +2,6 @@
 title: "Swiss Fondue"
 date: 2022-11-06
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 
 - 🍳 Cook time: ~20 minutes

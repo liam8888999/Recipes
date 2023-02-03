@@ -2,7 +2,6 @@
 title: "Hamburger dressing"
 date: 2021-04-06
 tags: ['sauce', 'basic', 'dressing']
-author: brox
 ---
 
 ![burger-dressing](/recipes/pix/burger-dressing.webp)

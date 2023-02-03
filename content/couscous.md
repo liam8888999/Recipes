@@ -2,12 +2,7 @@
 title: "Tunisian Couscous"
 date: 2022-07-26
 tags: ['tunisian']
-author: Sami Ben Romdhane
 ---
-
-
-Credits to creator of recipe, Mike Benayoun , [(original recipe)](https://www.196flavors.com/tunisia-tunisian-couscous/).
-I decided to post it on here to be more available.
 
 ![couscous](/recipes/pix/couscous.webp)
 

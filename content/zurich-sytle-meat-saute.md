@@ -1,8 +1,7 @@
 ---
 title: Zurich-Style Meat Saute
-tags: ['beef', 'cream', 'swiss', 'quick']
 date: 2023-01-06
-author: elias-pahls
+tags: ['beef', 'cream', 'swiss', 'quick']
 ---
 
 Originally called  "Züri Gschnätzlets" (Zurich chopped) from the city of Zurich
@@ -31,8 +30,7 @@ and mushrooms.
 1. Fry the meat in butter at high heat until it starts loosing liquid.
 2. Take the meat out of the pan and set aside.
 3. Saute the onions.
-4. Add the mushrooms, saute, then add a tbsp of flour and mix well. The flour
-   will make the sauce thicker, so use carfully.
+4. Add the mushrooms, saute, then add a tbsp of flour and mix well. The flour will make the sauce thicker, so use carfully.
 5. Add the white wine and let it boil for a few minutes.
 6. Add cream, boil until the sauce is very creamy.
 7. Add the meat, boil until the meat is warm.

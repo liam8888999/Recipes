@@ -1,8 +1,7 @@
 ---
 title: Spiced Apple Pancakes
-tags: ['apple', 'pancake', 'german', 'breakfast']
 date: 2022-11-16
-author: "Elsie Bee"
+tags: ['apple', 'pancake', 'german', 'breakfast']
 ---
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 10 min

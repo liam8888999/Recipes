@@ -1,15 +1,10 @@
 ---
 title: 'Kombucha'
-tags: ['drink', 'sweet']
 date: 2022-12-30
-author: elias-pahls
+tags: ['drink', 'sweet']
 ---
 
-The simple yet comprehensive guide to making tasty kombucha. This is intended
-to give you an initial overview of the process. I strongly encourage you to
-experiment with brewing times, teas, flavors, etc. The scoby is extremely
-tolerant, so the worst that can happen is that your resulting kombucha won't be
-that great.
+The simple yet comprehensive guide to making tasty kombucha. This is intended to give you an initial overview of the process. I strongly encourage you to experiment with brewing times, teas, flavors, etc. The scoby is extremely tolerant, so the worst that can happen is that your resulting kombucha won't be that great.
 
 ## Ingredients
 
@@ -23,7 +18,7 @@ that great.
 
 ## Directions
 
-Primary brew:
+### Primary brew:
 
 1. Boil 1-2l of water.
 2. Rinse all the dishes you will be working with boiling water; this is
@@ -40,7 +35,7 @@ Primary brew:
    insects and dirt from getting into the jar.
 9. Let the jar sit in a warm dark spot for 10-14 days.
 
-Second brew:
+### Second brew:
 
 1. Taste the brew after 10-14 days; if it has started to carbonate and the
    sugar is mostly gone, it is ready. The brewing time will strongly depend on

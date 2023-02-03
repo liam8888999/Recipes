@@ -1,7 +1,7 @@
 ---
 title: "Chicken Tikka Masala"
-tags: ['chicken', 'slowcooked', 'indian']
 date: 2022-04-16
+tags: ['chicken', 'slowcooked', 'indian']
 ---
 
 - ⏲️ Prep time: 25 min

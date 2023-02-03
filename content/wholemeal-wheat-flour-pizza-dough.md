@@ -1,8 +1,7 @@
 ---
 title: Wholemeal Wheat Flour Pizza Dough
-tags: ['wholemeal', 'pizza', 'dough', 'italian']
 date: 2022-07-13
-author: "leo-meinel"
+tags: ['wholemeal', 'pizza', 'dough', 'italian']
 ---
 
 ![Wholemeal-Wheat-Flour-Pizza-Dough](/recipes/pix/wholemeal-wheat-flour-pizza-dough.webp)

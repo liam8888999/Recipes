@@ -2,7 +2,6 @@
 title: "Avocado Dip"
 date: 2022-11-06
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 ![Avocado Dip](/recipes/pix/avocado-dip.png)
 

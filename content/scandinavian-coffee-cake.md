@@ -4,24 +4,24 @@ date: 2021-03-12
 tags: ['sweet', 'dessert', 'cake', 'cheesefare']
 ---
 
-* ⏲️ Prep time: 15 min
-* 🍳 Cook time: ≈ 3 hours
-* 🍽️ Servings: 1 cake
+- ⏲️ Prep time: 15 min
+- 🍳 Cook time: ≈ 3 hours
+- 🍽️ Servings: 1 cake
 
 ## Ingredients
 
-* 1/2 cup milk
-* 1/2 cup shortening
-* 1/2 cup sugar
-* 1/2 teaspoon salt
-* 1 package active dry yeast
-* 1/4 cup warm (not hot) water
-* 3 cup sifted enriched Flour
-* 2 eggs, beaten
-* melted butter, or margarine
-* 2/3 cup firmly packed brown sugar
-* 2 teaspoon cinnamon
-* chopped walnuts
+- 1/2 cup milk
+- 1/2 cup shortening
+- 1/2 cup sugar
+- 1/2 teaspoon salt
+- 1 package active dry yeast
+- 1/4 cup warm (not hot) water
+- 3 cup sifted enriched Flour
+- 2 eggs, beaten
+- melted butter, or margarine
+- 2/3 cup firmly packed brown sugar
+- 2 teaspoon cinnamon
+- chopped walnuts
 
 ## Directions
 

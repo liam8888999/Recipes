@@ -2,7 +2,6 @@
 title: "Cream Cheese and Walnut canape"
 date: 2022-10-29
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 
 ![cream-cheese-and-walnut-canape](/recipes/pix/cream-cheese-and-walnut-canape.jpeg)

@@ -1,8 +1,7 @@
 ---
 title: "Chicken Paprikash"
-tags: ['stew', 'chicken', 'hungarian']
 date: 2022-06-18
-author: hcm444
+tags: ['stew', 'chicken', 'hungarian']
 ---
 
 Chicken Paprikash is a delicious meal from Hungary, and I hope you are also Hungary! I make it all the time when I have guests.

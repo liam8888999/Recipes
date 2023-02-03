@@ -1,8 +1,7 @@
 ---
 title: 'Tahini short bread'
-author: 'Arnaud Poittevin'
-tags: ['dessert', 'side', 'snack', 'cheesefare', 'eggs', 'dough']
 date: 2022-06-29
+tags: ['dessert', 'side', 'snack', 'cheesefare', 'eggs', 'dough']
 ---
 
 ![Tahini biscuits](/recipes/pix/tahini-short-bread.webp)

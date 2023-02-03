@@ -2,15 +2,14 @@
 title: "Loaded Mexican Rice"
 date: 2021-03-21
 tags: ['rice', 'southwest']
-author: mr-mip
 ---
 
 A tex-mex style mexican rice with beans and meat. Adding the beans and meat take it from a side
 dish to good good burrito filling. :x
 
-## Ingredients
+- 🍽️ Servings: 5
 
-5 serving
+## Ingredients
 
 * 1 Cup uncooked long grain white rice
 * 1/2 Cup frozen peas

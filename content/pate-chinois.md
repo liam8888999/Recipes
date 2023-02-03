@@ -2,7 +2,6 @@
 title: "Pâté Chinois (Quebec Style Shepherd’s Pie)"
 date: 2021-03-22
 tags: ['quebec', 'beef', 'pie', 'potato']
-author: julien
 ---
 
 ![pate chinois](/recipes/pix/pate-chinois.webp "Homemade pate chinois with to much ketchup")
@@ -16,32 +15,31 @@ This is the most traditional dish that every household eats in Quebec. As a kid,
 ## Ingredients
 
 ### Mashed potatoes layer
-* 1½ lb of potatoes or around 6 big one, peeled and diced
-* 2 tbsp of butter
-* ½ cup milk
-* 1 tsp of  herbs de Provence or dried parsley
-* (optional) ½ cup of strong cheddar cheese, grated
-* Pinch of nutmeg
-* Paprika
+- 1½ lb of potatoes or around 6 big one, peeled and diced
+- 2 tbsp of butter
+- ½ cup milk
+- 1 tsp of  herbs de Provence or dried parsley
+- (optional) ½ cup of strong cheddar cheese, grated
+- Pinch of nutmeg
+- Paprika
 
 ### Beef layer
-* 1 tbsp of butter
-* 1 lb of ground beef
-* 1 onion, diced
-* 1 tbsp of soya sauce
-* 1 tbsp of herbs de Provence
-* 1 tsp of Worcestershire sauce
+- 1 tbsp of butter
+- 1 lb of ground beef
+- 1 onion, diced
+- 1 tbsp of soya sauce
+- 1 tbsp of herbs de Provence
+- 1 tsp of Worcestershire sauce
 
 ### Corn layer
-* 1 small can (around 14oz) of whole kernel corn
-* 1 small can (around 14oz) of cream style corn
+- 1 small can (around 14oz) of whole kernel corn
+- 1 small can (around 14oz) of cream style corn
 
 ## Directions
 
 1. Preheat the oven to 375°F (190°C).
 2. In a large pot of salted water, cook the potatoes for 20-30min or until tender. Drain.
-3. Add the butter, the milk, the herbs, the nutmeg and mash the potatoes with a masher or an electric mixer. Gradually
-add the cheese. Season with salt and pepper and set aside.
+3. Add the butter, the milk, the herbs, the nutmeg and mash the potatoes with a masher or an electric mixer. Gradually add the cheese. Season with salt and pepper and set aside.
 4. In a pan at medium-high heat, brown the onion in the butter and cook the beef until golden brown. Add the herbs, the Worcestershire and the soya sauce and cook it for another 2min. Set aside.
 5. In a 6-8 inch baking dish, press the meat into the bottom. Evenly cover with the whole kernel corn, the cream corn and finish with the layer of mashed potatoes.
 6. Sprinkle some paprika to taste.

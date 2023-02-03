@@ -1,8 +1,7 @@
 ---
 title: Winter Risotto
-tags: ['mushrooms', 'rice', 'italian']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['mushrooms', 'rice', 'italian']
 ---
 
 - ⏲️ Prep time: 15 min

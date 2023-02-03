@@ -1,15 +1,14 @@
 ---
 title: Pulpo a la gallega
-tags: ['fish', 'spanish']
 date: 2022-07-13
-author: "ivn1s"
+tags: ['fish', 'spanish']
 ---
 
 ![pulpo a la gallega](/recipes/pix/pulpo-gallega.webp)
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 35 to 40 min
-- 🍽️ Servings: 
+- 🍽️ Servings:
 
 ## Ingredients
 
@@ -17,7 +16,7 @@ author: "ivn1s"
 - Potatoes
 - 2 bay leaves
 - Sweet and spicy red pepper
-- Salt 
+- Salt
 - oil
 
 ## Directions

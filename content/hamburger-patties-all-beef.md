@@ -2,10 +2,9 @@
 title: "Hamburger Patties"
 date: 2021-03-19
 tags: ['american', 'quick', 'beef', 'basic']
-author: "James Hendrie"
 ---
 
-🍽️ Servings: 4 patties
+- 🍽️ Servings: 4 patties
 
 ## Ingredients
 

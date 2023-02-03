@@ -1,8 +1,7 @@
 ---
 title: Za'atar Chicken Bulghur Bowls
-tags: ['chicken', 'mediterranean', 'turkish']
 date: 2022-09-11
-author: joel-maxuel
+tags: ['chicken', 'mediterranean', 'turkish']
 ---
 
 

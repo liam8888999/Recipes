@@ -2,7 +2,6 @@
 title: "Ginger Pork with Sprout Salad & Pawpaw"
 date: 2022-10-29
 tags: ['Pork', 'Dairy Free', 'Salad']
-author: liam8888999
 ---
 
 ![ginger-pork-with-sprout-salad-and-pawpaw](/recipes/pix/ginger-pork-with-sprout-salad-and-pawpaw.jpeg)

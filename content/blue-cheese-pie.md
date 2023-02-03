@@ -2,7 +2,6 @@
 title: "Blue cheese pie"
 date: 2022-11-06
 tags: ['Dairy', 'Snack']
-author: liam8888999
 ---
 
 ![Blue cheese pie](/recipes/pix/blue-cheese-pie.png)

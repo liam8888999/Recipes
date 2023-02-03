@@ -1,10 +1,8 @@
 ---
 title: Egyptian Lentils
-tags: ['rice', 'pasta']
 date: 2022-09-10
-author: joel-maxuel
+tags: ['rice', 'pasta']
 ---
-
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 40 min

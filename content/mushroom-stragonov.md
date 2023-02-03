@@ -2,12 +2,11 @@
 title: "Mushroom Stroganov"
 date: 2021-05-13
 tags: ['russian', 'pasta', 'mushrooms']
-author: aayla-semyonova
 ---
 
-Prep time: 10 Minutes
-Cook time: 20 Minutes
-Servings: 2
+- ⏲️ Prep time: 10 min
+- 🍳 Cook time: 20 min
+- 🍽️ Servings: 2
 
 ## Ingredients
 

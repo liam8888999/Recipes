@@ -2,7 +2,6 @@
 title: "Celery bites"
 date: 2022-10-29
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 
 ![celery-bites](/recipes/pix/celery-bites.png)

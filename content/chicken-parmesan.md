@@ -2,10 +2,7 @@
 title: "Chicken Parmesan"
 date: 2021-03-10
 tags: ['italian', 'chicken']
-author: luke-smith
 ---
-
-The recipe that started this very site.
 
 ## Ingredients
 
@@ -34,8 +31,4 @@ The recipe that started this very site.
 
 ## Note
 
-There is some controversy over when to add the pasta sauce to this dish.
-Some place it on the chicken before cooking it with the mozzarella.
-The sauce, if left on the chicken too long will make the breadcrumbs go soggy.
-That also will make leftovers mushy (while still tasty).
-I recommend keeping the breasts separate and only adding the sauce when served.
+There is some controversy over when to add the pasta sauce to this dish. Some place it on the chicken before cooking it with the mozzarella. The sauce, if left on the chicken too long will make the breadcrumbs go soggy. That also will make leftovers mushy (while still tasty). I recommend keeping the breasts separate and only adding the sauce when served.

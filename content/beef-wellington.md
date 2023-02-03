@@ -2,7 +2,6 @@
 title: "Beef Wellington"
 date: 2022-04-15
 tags: ['english', 'beef']
-author: "HiddenSquid321"
 ---
 
 - ⏲️ Prep Time: 10 min
@@ -19,8 +18,6 @@ author: "HiddenSquid321"
 - 7oz of Puff Pastry
 - 2 Egg Yolks Beaten
 
-Side note: Fillet beef is preferred.  It gives the beef wellington a soft, tender and juicy flavour.  Trust me, using fillet is worth it.
-
 ## Directions
 
 1. Season the fillet with salt and black pepper.
@@ -32,3 +29,6 @@ Side note: Fillet beef is preferred.  It gives the beef wellington a soft, tende
 7. On a lightly floured surface, roll out a sheet of puff pastry to a size that will fit the fillet.  Preserve a little excess pastry. Unwrap the fillet-mushroom-ham from the plastic wrap and place in the middle of the pastry dough.  Brush the edges of the pastry with the beaten egg yolks.
 8. Place the pastry-wrapped thing on a baking tray. Brush the exposed surface again with the beaten eggs. Optionally, score the top of the pastry with a knife, to give it a better presentation.  Scratch the surface of it but don't cut it through.  Season it through with coarse salt.
 9. Bake at 302°F/105°C for 35-42 minutes. The pastry should be nicely golden when done.  Let it rest for about 10 minutes and cut it into 1in/2.54cm-thick slices for presentation.
+
+## Note
+Fillet beef is preferred.  It gives the beef wellington a soft, tender and juicy flavour.  Trust me, using fillet is worth it.

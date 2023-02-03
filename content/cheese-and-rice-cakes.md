@@ -2,7 +2,6 @@
 title: "Cheese and Rice Cakes"
 date: 2022-11-06
 tags: ['Dairy', 'Snack']
-author: liam8888999
 ---
 
 - ⏲️ Prep time: 15 min
@@ -24,4 +23,4 @@ author: liam8888999
 1. Lightly whip the eggs and add to rice. Stir in cheese, salt and paprika.
 2. Shape into patties, allowing 2 per portion.
 3. Heat butter in sauteuse, brown patties on both sides.
-4. Serve hot with mornay sauce. 
+4. Serve hot with mornay sauce.

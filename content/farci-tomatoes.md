@@ -1,8 +1,7 @@
 ---
 title: "Farcies tomatoes"
-tags: ['french', 'tomato', 'oven']
 date: 2022-07-11
-author: miraunpajaro
+tags: ['french', 'tomato', 'oven']
 ---
 
 ![Farci tomatoes](/recipes/pix/farci_tomatoes.webp)

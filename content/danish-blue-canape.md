@@ -2,7 +2,6 @@
 title: "Danish Blue canape"
 date: 2022-10-29
 tags: ['Dairy', 'Appetiser']
-author: liam8888999
 ---
 
 ![danish-blue-canape](/recipes/pix/danish-blue-canape.png)

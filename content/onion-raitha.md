@@ -2,12 +2,9 @@
 title: "Onion Raitha (Indian Tzatziki)"
 date: 2021-03-21
 tags: ['quick', 'sauce', 'indian']
-author: ram-pari
 ---
 
-Raitha is an yogurt-based Indian style sauce that goes great with rice dishes such as Pilau and Biriyani. It's quite similar to
-a greek Tzatziki and is quick and quite easy to make. It's great especially with super spicy indian dishes as it
-provides as a sweet and cooling effect.
+Raitha is an yogurt-based Indian style sauce that goes great with rice dishes such as Pilau and Biriyani. It's quite similar to a greek Tzatziki and is quick and quite easy to make. It's great especially with super spicy indian dishes as it provides as a sweet and cooling effect.
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 2 min

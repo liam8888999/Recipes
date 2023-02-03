@@ -2,10 +2,7 @@
 title: "Beef Kidney"
 date: 2021-06-05
 tags: ['beef']
-author: philip-wittamore
 ---
-
-My wife's beef kidney recipe
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 45 min

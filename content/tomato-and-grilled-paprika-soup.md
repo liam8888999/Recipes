@@ -2,7 +2,6 @@
 title: "Tomato and Grilled Bell Pepper soup"
 date: 2021-03-15
 tags: ['soup', 'cheesefare']
-author: thijs-wester
 ---
 
 - 🍳 Cook time: 30 min
@@ -11,6 +10,7 @@ author: thijs-wester
 Can be prepared the night before and kept frozen for a week or two.
 
 ## Ingredients
+
 - 10 tomatoes
 - 2 red bell peppers
 - 2 onions
@@ -25,6 +25,7 @@ Can be prepared the night before and kept frozen for a week or two.
 - 2T heavy cream
 
 ## Directions
+
 1. Halve, deseed and grill the bell peppers in an oven or on a grill. Remove skin after grilling.
 2. Skin and quarter tomatoes.
 3. Sauté onion and crushed garlic in a large soup pan with olive oil.

@@ -1,8 +1,7 @@
 ---
 title: Perfect Potato Salad
-tags: ['potato', 'salad', 'american']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['potato', 'salad', 'american']
 ---
 
 - ⏲️ Prep time: 15 min

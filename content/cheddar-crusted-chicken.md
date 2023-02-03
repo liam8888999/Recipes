@@ -1,8 +1,7 @@
 ---
 title: Cheddar-Crusted Chicken
-tags: ['chicken']
 date: 2022-08-09
-author: joel-maxuel
+tags: ['chicken']
 ---
 
 Suggested sides: Roasted green beans as well as sweet potatoes mashed with sour cream and butter
