@@ -1,7 +1,7 @@
 ---
 title: "Loaded Sandwich"
 date: 2023-03-03
-tags: ['Dairy', 'Mains']
+tags: ['Lunch', 'Protein', 'Sandwich']
 ---
 
 - ⏲️ Prep time: ~10 min
