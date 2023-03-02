@@ -14,7 +14,7 @@ tags: ['Lunch', 'Protein', 'Sandwich']
 - 2 slices of multigrain bread 1/4 Avocado
 - Teaspoon of tomato relish (optional)
 - 3 slices of tomato
- - 2 thin slices of hard cheese
+- 2 thin slices of hard cheese
 - 2 Large Cos lettuce leaves (or 1 cup of smaller salad leaves like spinach)
 - 2 Slices of Beetroot
 - 1 Large Mushroom, sliced
