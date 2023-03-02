@@ -4,10 +4,10 @@ date: 2023-03-03
 tags: ['Lunch', 'Protein', 'Sandwich']
 ---
 
+![Loaded Sandwich](/recipes/pix/loaded-sandwich.png)
+
 - ⏲️ Prep time: ~10 min
 - 🍽️ Servings: 1 sandwich
-
-![Loaded Sandwich](/recipes/pix/loaded-sandwich.png)
 
 ## Ingredients
 
