@@ -1,0 +1,27 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam8888999/recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liam8888999/recipes/issues"
+  },
+  "homepage": "https://github.com/liam8888999/recipes#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "markdown-it": "^13.0.1",
+    "marked": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}

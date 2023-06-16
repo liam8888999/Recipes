@@ -1,7 +1,0 @@
-<ul id=artlist>
-{{ $number := 0 -}}
-{{- range.Site.RegularPages -}}
-{{- $number = add $number 1 -}}
-<li><a href="{{.Permalink}}">{{.Title}}</a></li>
-{{ end -}}
-</ul>
