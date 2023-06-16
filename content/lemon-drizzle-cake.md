@@ -4,7 +4,6 @@ date: 2023-07-16
 tags: ['citrus', 'desert']
 ---
 
-![Lemon Drizzle Cake](/recipes/pix/lemon-drizzle-cake.webp)
 
 
 - ⏲️ Prep time: 15 min
