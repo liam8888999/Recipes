@@ -4,7 +4,6 @@ title = 'Recipe Book'
 theme = 'lugo'
 
 [params]
-  favicon = "favicon.svg"
   stylesheet = "style.css"
   indexarticles = 50
   taglist = true
