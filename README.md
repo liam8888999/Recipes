@@ -3,6 +3,9 @@
 
 Discord: https://discord.gg/x4Nk4sfgSg
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E4MI8T5)
+
+
 ## Ways to contribute
 
 - By adding a recipe.
